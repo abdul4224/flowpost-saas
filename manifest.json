@@ -1,0 +1,16 @@
+{
+  "short_name": "FlowPost S.",
+  "name": "FlowPost Automation SaaS Studio",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/dashboard",
+  "background_color": "#0F172A",
+  "theme_color": "#2563EB",
+  "display": "standalone",
+  "orientation": "portrait"
+}
